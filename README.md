@@ -99,7 +99,7 @@ Away from the keyboard I teach chess, mostly to kids around twelve. Explaining w
 
 ---
 
-## Right now · En qué ando
+## Right now...
 
 - Rebuilding **bricklepickle.com** in Next.js 16 — bilingual, statically generated, self-hosted on my own VPS
 - Writing the ESP32 work up properly, so the case studies say more than "it blinks"
