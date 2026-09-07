@@ -99,19 +99,6 @@ Away from the keyboard I teach chess, mostly to kids around twelve. Explaining w
 
 ---
 
-## Stats
-
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Brickle-Pickle&show_icons=true&hide_border=true&include_all_commits=true&bg_color=eef4fe&title_color=3b6fb6&text_color=55677f&icon_color=5b8fd6#gh-light-mode-only">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brickle-Pickle&layout=compact&hide_border=true&langs_count=8&bg_color=eef4fe&title_color=3b6fb6&text_color=55677f#gh-light-mode-only">
-</p>
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Brickle-Pickle&show_icons=true&hide_border=true&include_all_commits=true&bg_color=121a26&title_color=a9c9f2&text_color=a2b4cd&icon_color=7fb8a0#gh-dark-mode-only">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brickle-Pickle&layout=compact&hide_border=true&langs_count=8&bg_color=121a26&title_color=a9c9f2&text_color=a2b4cd#gh-dark-mode-only">
-</p>
-
----
-
 ## Right now · En qué ando
 
 - Rebuilding **bricklepickle.com** in Next.js 16 — bilingual, statically generated, self-hosted on my own VPS
